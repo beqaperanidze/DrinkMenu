@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DrinkMenu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44e101a08800ea683f2329b4641428cee6fa0d53")]
 [assembly: System.Reflection.AssemblyProductAttribute("DrinkMenu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DrinkMenu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
